@@ -1,0 +1,75 @@
+
+#spoon {    padding: 5%}
+#spoon2 {    padding: 5%;    position: absolute;right: 3%}
+#sema {    padding: 0%;
+    height: 5%;
+    top: 6%;
+    width: 3%;
+    max-width: 5%;
+    min-width: 5%;
+    left: 50%;
+    margin-left: -50px;
+    position: absolute;
+    align-content: center;
+    z-index: 2;
+    text-align: center
+}
+
+#btstop img {
+	width: 40px;
+    height: 40px;
+    padding: 1px;
+    max-width: 40px;
+    min-width: 40px;
+    max-height: 40px;
+    min-height: 40px;
+	margin:0 auto;
+	transition: transform .2s;
+	 filter: brightness(60%)
+}
+#btstop img:hover {
+	transform: scale(1.2);
+	filter: brightness(100%)
+}
+#btrep img {
+	width: 40px;
+    height: 40px;
+    padding: 1px;
+    max-width: 40px;
+    min-width: 40px;
+    max-height: 40px;
+    min-height: 40px;
+	margin:0 auto;
+	transition: transform .2s;
+	 filter: brightness(60%)
+}
+#btrep img:hover {
+	transform: scale(1.2);
+	filter: brightness(100%)
+}
+
+#donatorslink {
+	
+	    width: 100%;
+    overflow: hidden;
+    height: 100%;
+	
+}
+
+#btspoon img {
+	width: 40px;
+    height: 40px;
+    padding: 1px;
+    max-width: 40px;
+    min-width: 40px;
+    max-height: 40px;
+    min-height: 40px;
+	margin:0 auto;
+	transition: transform .2s;
+	 filter: brightness(60%)
+}
+#btspoon img:hover {
+	transform: scale(1.2);
+	filter: brightness(100%)
+}
+
